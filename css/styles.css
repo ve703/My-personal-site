@@ -1,0 +1,164 @@
+body{
+    margin: 0px;
+    color: #40514E;
+    background-color: #F9F9F9;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr{
+    border: dotted #EAF6F6 6px ;
+    border-bottom: none;
+    margin: 100px auto none;
+    width: 4%;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-size: medium;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+h1{
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.6rem;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+text-align: left;
+ font-weight: bold;
+ font-size: larger;
+}
+p{
+    font-size: large;
+    line-height: 2;
+    
+}
+.intro{
+    font-weight: bold;
+    margin: auto;
+    width: 45%;
+}
+#underline{
+    font-size: 18px;
+}
+.intro u{
+    text-decoration: none;
+}
+#college-name{
+    font-size: large;
+    color: rgb(181, 62, 104);
+}
+.contact-message
+{
+    width: 40%;
+    margin: 40px auto 60px;
+    font-weight: bolder;
+    font-size: large;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 1.5rem;
+    padding: 20px 0 10px; 
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 10%;
+}
+.coder{
+    
+    width: 250px;
+    height: 275px;
+}
+.middle-container{
+    margin: 100px 0;
+    
+}
+.bottom-container{
+   padding: 50px 0 20px;
+   background-color: #66BFBF;
+}
+.footer-link{
+    font-size: medium;
+    color: #11999E;
+}
+
+
+.web{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 275px;
+    top: 70px;
+}
+.bottom-cloud{
+
+    position: absolute;
+    left: 275px;
+    bottom: 300px;
+}
+.mountain{
+    background-color: #EAF6F6;
+}
+.cpp-img{
+  width: 140px;
+  height: 135px;
+  float: left;
+  margin-right:  30px;
+}
+.debate-img{
+    width: 200px;
+    height: 135px;
+    float: right;
+    margin-left: 20x;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    margin: 15px;
+    font-size: 20px;
+    padding: 20px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  #btn1{
+      display: block;
+      width: 150px;
+      margin: auto;
+  }
